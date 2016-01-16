@@ -1,4 +1,9 @@
 mars is my favourite
 mummy will like it
 partner line
+<<<<<<< HEAD
 Yu made additional change
+=======
+Adding another line, because why not.
+>>>>>>> 602a2ab2abef2b75798d478fada055630cef04c9
+good addition
